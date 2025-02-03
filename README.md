@@ -1,0 +1,2 @@
+A "student grade project" refers to an assignment where students are tasked with creating a project that demonstrates their understanding of a specific subject matter, often culminating in a tangible deliverable like a presentation, report, model, or digital artifact, which is then evaluated by their teacher using a grading rubric to assess their knowledge and skills acquired throughout the learning process. 
+![Uploading image.png…]()
